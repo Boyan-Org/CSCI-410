@@ -2,3 +2,4 @@
 Course Project
 
 Test git push
+Test git status
