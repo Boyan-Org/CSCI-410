@@ -1,7 +1,0 @@
-Django Cheat Sheet
-
-After change model.py
-1. change installed app
-2. python manage.py makemigrations <APP_NAME>
-3. python manage.py sqlmigrate <APP_NAME> <NUMBER>
-4. python manage.py migrate

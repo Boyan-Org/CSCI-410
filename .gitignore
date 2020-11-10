@@ -158,7 +158,8 @@ dmypy.json
 .LSOverride
 
 # Icon must end with two \r
-Icon
+Icon
+
 
 # Thumbnails
 ._*
@@ -282,6 +283,7 @@ fabric.properties
 # https://plugins.jetbrains.com/plugin/12206-codestream
 .idea/codestream.xml
 
+<<<<<<< HEAD
 ### Python ###
 # Byte-compiled / optimized / DLL files
 
@@ -343,6 +345,8 @@ fabric.properties
 
 # profiling data
 
+=======
+>>>>>>> 97f45e4797948d4bf80ed2f73d6c5e8ddf8d6320
 ### VisualStudioCode ###
 .vscode/*
 !.vscode/settings.json
@@ -356,7 +360,12 @@ fabric.properties
 .history
 .ionide
 
+<<<<<<< HEAD
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,pycharm,macos,django,python
+=======
+# End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,macos,django,pycharm
+>>>>>>> 97f45e4797948d4bf80ed2f73d6c5e8ddf8d6320
 
 # Custom rules (everything added below won't be overriden by 'Generate .gitignore File' if you use 'Update' option)
 
+.DS_Store
