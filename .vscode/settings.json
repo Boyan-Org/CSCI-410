@@ -1,6 +1,4 @@
 {
-<<<<<<< HEAD
-  "python.pythonPath": "getting-started/bin/python3",
   "files.exclude": {
     "**/.git": true,
     "**/.svn": true,
@@ -12,8 +10,6 @@
     "getting-started": true
   },
   "explorerExclude.backup": null,
-  "workbench.tree.indent": 25
-=======
-    "python.pythonPath": "/usr/local/bin/python3"
->>>>>>> 97f45e4797948d4bf80ed2f73d6c5e8ddf8d6320
+  "workbench.tree.indent": 25,
+  "python.pythonPath": "/Users/frankzhou/anaconda3/envs/django_env/bin/python"
 }

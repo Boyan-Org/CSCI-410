@@ -2,7 +2,7 @@ from django.db import models
 
 
 # Create your models here.
-class Login_Info(models.Model):
+class Account(models.Model):
     username = models.CharField(max_length=20, unique=True)
     password = models.CharField(max_length=20)
     role = models.CharField(
@@ -15,4 +15,4 @@ class Login_Info(models.Model):
     )
 
     class Meta:
-        db_table = 'login_info'
+        db_table = 'account'
